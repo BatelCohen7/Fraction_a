@@ -1,4 +1,4 @@
-# FractionFraction
+# Fraction
 Task 3 part a - CPP Course
 ## The task:
 Write a **Test** class named Test.cpp that represents a tests for following operators</div>
@@ -32,4 +32,5 @@ Write a **Test** class named Test.cpp that represents a tests for following oper
 </div>
 
 ## my results:</div>
+![12](https://user-images.githubusercontent.com/93344134/233867033-3f045d6e-06f1-4238-8588-4b5799da4881.jpg)
 
