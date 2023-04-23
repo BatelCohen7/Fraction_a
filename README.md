@@ -14,12 +14,6 @@ Write a class named Fraction that represents a fraction of two integers. Overloa
 * The >> operator to read a fraction from an input stream by taking two integers as input. 
 * All operators should work on both sides on fractions and floats type variables. on a float var you need use up to 3 digits beyond the desimal point for acuracy.  
 
-דוגמאות לפעולת המחלקה ניתן למצוא ב-[Demo.cpp](Demo.cpp).
-
-בשלב א עליכם לכתוב כותרות ובדיקות-יחידה מקיפות. 
-
-כיתבו את כל הקבצים הדרושים כך שהפקודות הבאות יעבדו ללא שגיאות:
-
 <div dir='ltr'>
 
     make demo && ./demo
@@ -27,19 +21,9 @@ Write a class named Fraction that represents a fraction of two integers. Overloa
 
 </div>
 
-מומלץ גם להריץ:
-
 <div dir='ltr'>
 
     make tidy
     make valgrind
 
-</div>
 
-שימו לב:
-אין לשנות קבצים קיימים, אלא רק להוסיף קבצים חדשים.
-מערכת הבדיקה האוטומטית מעתיקה מחדש את כל הקבצים הקיימים על-גבי הפתרון שאתם מגישים,
-ולכן כל שינוי שתעשו בקבצים הקיימים יימחק.
-
-בהצלחה
-</div>
